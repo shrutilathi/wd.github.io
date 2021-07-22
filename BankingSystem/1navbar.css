@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.nav-link{
+	margin-right: 15px;
+	color: #e46f2b;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+    background-color: #e45f2b;
+    color: #e45f2b;
+	/* color: #e46f2b; */
+	letter-spacing: 0.5px;
+}
+.bg-light {
+   
+        background-color: #f67b33!important;
+   
+}
+a {
+   
+    color: #161816;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 25px;
+}
+
+.bank {
+    height: 74px;
+    padding: -5px;
+}

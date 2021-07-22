@@ -1,0 +1,82 @@
+body{
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.footer {
+font-weight: 500;
+    font-size: 18px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f37e20;
+    /* background-color:rgb(235, 123, 18); */
+    color:white;
+    text-align: center;
+  }
+  .btn {
+    display: block;
+    font-weight: 600;
+  }
+  .btn-info {
+    color: #fff;
+
+    background-color: #ae4c1d;
+    border-color: wheat;
+    border: 2px solid;
+    border-radius: 14px;
+    margin: 0px 92px;
+}
+
+
+.bgimage
+{
+  background-image: url('images/paisa.jpg');
+  opacity: 0.8;
+height: 200px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.caption{
+  text-align: center;
+  
+}
+a {
+  background-color: transparent;
+}
+
+.row {
+  margin-left: 183px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-direction: column; */
+  padding: 20px;
+}
+.rowc {
+  background-color: #f6ba74;
+    border: 4px solid #d14e0f;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 14px;
+  font-size: 22px;
+}
+.container {
+  width: 100%;
+  padding: 25px 29px 29px 60px;
+  margin-top: 44px;
+}
+
+
+.table {
+  font-weight: 700;
+  width: 100%;
+  margin-bottom: 0rem;
+  color: #090909;
+}
+.form-control {
+  color: #1c1d1e;
+  background-color: #f0d6bb;
+  border: 1px solid #ec4b0d;
+  font-weight: 500;
+}
